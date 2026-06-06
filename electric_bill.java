@@ -1,3 +1,4 @@
+package java_mini_projects;
 import java.util.Scanner;
 
 public class electric_bill {

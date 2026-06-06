@@ -1,3 +1,5 @@
+package java_mini_projects;
+
 import java.util.Scanner;
 public class grade_calculator {
     public static void main(String[] args) {
